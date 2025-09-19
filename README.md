@@ -2,6 +2,9 @@
 
 This project streams fake pizza orders to a Kafka topic using Python, Faker, and a custom pizza provider.
 
+<img width="1508" height="788" alt="image" src="https://github.com/user-attachments/assets/7f65b53c-4543-48e0-9d90-7ec2db5eca51" />
+
+
 ## Features
 
 - Generates realistic fake pizza orders (customer info, pizza type, quantity)
